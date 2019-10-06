@@ -43,4 +43,4 @@
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<p><strong>testing cd</strong></p>
+<p><strong>testing cd...</strong></p>
